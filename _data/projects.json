@@ -81,7 +81,7 @@
 		"tags": ["XGBoost", "NCAA", "Sports", "R", "Basketball", "Scraping", "Machine Learning"]
 	}
 	{
-		"slug": "MLB-EV_And_LA",
+		"slug": "MLB-EV-And-LA",
 		"name": "Evaluating the Effect of Exit Velocity and Launch Angle on HRs in the MLB ",
 		"image": "mlb.jpg",
 		"url": "https://rpubs.com/Conor-McGrath/749099",
