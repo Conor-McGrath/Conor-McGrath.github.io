@@ -79,7 +79,7 @@
 		"date": "March 2021",
 		"description": "XGBoost machine learning model to predict win probabilities for every hypothetical matchup in the 2021 NCAA basketball tournament.",
 		"tags": ["XGBoost", "NCAA", "Sports", "R", "Basketball", "Scraping", "Machine Learning"]
-	}
+	},
 	{
 		"slug": "MLB-EV-And-LA",
 		"name": "Evaluating the Effect of Exit Velocity and Launch Angle on HRs in the MLB ",
